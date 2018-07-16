@@ -17,7 +17,6 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-3": "^6.24.1",
     "css-loader": "^0.28.11",
-    "node-sass": "^4.9.0",
     "vue-loader": "^15.2.4",
     "vue-style-loader": "^4.1.0",
     "vue-template-compiler": "^2.5.16",
@@ -31,7 +30,6 @@
 		"vue-hot-reload-api": "^2.2.4",
 		"vue-html-loader": "^1.2.4",
     "file-loader": "^1.1.4",
-    "sass-loader": "^7.0.3",
     "url-loader": "^0.5.8"
   },
   "email": "664555934@qq.com",

@@ -62,7 +62,7 @@
   }
 
 </script>
-<style lang="scss">
+<style>
   .i-img-loading {
     font-size: 28px;
   }
